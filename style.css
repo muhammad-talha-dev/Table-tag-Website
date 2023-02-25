@@ -1,0 +1,11 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: #000;
+}
+tfoot{
+background-color: #000;
+}
+.footp{
+    color: rgb(255, 255, 255);
+}
